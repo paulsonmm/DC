@@ -1,0 +1,170 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+body{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+  
+}
+
+.dchead{
+  background-color: #fff;
+   }
+.stargirlfont{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #fff;
+    /* background-color: black; */
+   
+}
+.stargirlimg{
+    width:100%;
+    height: auto;
+}
+@media screen and (max-width:1000px){
+   .title{
+    margin-top:10% !important;
+   }
+}
+.stargirlfont1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+    font-weight: 900;
+    color: #fff;
+    /* background-color: black; */
+}
+.stargirlfont2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+    /* background-color: #000; */
+    color: #fff;
+    font-weight: 100;
+}
+
+.stargirltitle{
+    position: relative;
+    padding: 0;
+   
+}
+.title{
+    position: absolute;
+    padding:2px;
+    /* background-color: red; */
+    margin-top: 20%;
+    margin-left: 10%;
+}
+.btn{
+    
+    background-color: #fff;
+    color: #000;
+    border-radius: 30px;
+    font-weight: 550;
+    word-spacing: 1px;
+    font-size: small;
+    border-color: #000;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.tab1{
+
+    height:auto;
+    /* background-color: aqua; */
+    background: #fdfeff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 12px 40px rgba(0, 0, 0, 0.1607843137);
+    opacity: 1;
+    margin:0px;
+    max-width: 17rem;
+    
+    
+}
+.tab2{
+    width: 80%;
+    font-size: small;
+    padding-top: 5%;
+    color: rgb(103, 103, 103);
+    height:auto;
+    padding-left: 20%;
+    text-align: center;
+    /* background-color: aqua; */
+}
+
+
+
+.tab3{
+    width: 100%;
+    font-size: 1.6rem;
+    font-weight: 300;
+    height:auto;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    
+    text-align: center;
+    /* background-color: aqua; */
+}
+.btn1{
+    
+    background-color: #fff;
+    color: rgb(48, 47, 47);
+    border-radius: 30px;
+    font-weight: 500;
+    word-spacing: 1px;
+    font-size:0.8rem;
+    border-color: #000;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.btn1:hover{
+    background-color: rgb(11, 106, 248);
+    color:#ffffff;
+    
+}
+.btn12{
+    background-color: #fff;
+    color: rgb(48, 47, 47);
+    border-radius: 30px;
+    font-weight: 500;
+    word-spacing: 1px;
+    font-size: small;
+    border-color: #000;
+    align-items: center;
+    font-family:Arial, Helvetica, sans-serif;   
+}
+.smtab{
+    background: #fdfeff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 12px 40px rgba(0, 0, 0, 0.1607843137);
+    opacity: 1;
+    margin: 2px;
+    max-width: 15rem;
+}
+.celeb{
+    position: relative;
+}
+.wb{
+    position: absolute;
+    text-align: center;
+    margin-top: 28rem;
+}
+.smtab3{
+    background: #fdfeff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 12px 40px rgba(0, 0, 0, 0.1607843137);
+    opacity: 1;
+    margin: 2px;
+    max-width: 15rem;
+}
+.peace{
+    background-color: rgb(106, 0, 205);
+    max-height: 29rem;
+}
+.maker{
+    align-items: center;
+    height: auto;
+    margin-top: 2rem;
+    width: 30rem;
+}
+.foot{
+    background-color: #000;
+}
+.foot2{
+    background-color: #000;
+    margin:;
+}
